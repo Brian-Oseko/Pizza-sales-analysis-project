@@ -37,9 +37,31 @@ My analysis included:
 ```sql
 CREATE DATABASE sales;
 ```
+### Create Table
+```sql
+CREATE TABLE sales.pizza_sales (
+  pizza_id INT NOT NULL,
+  pizza_sales INT NULL,
+  pizza_sales VARCHAR(45) NULL,
+  quantity INT NULL,
+  pizza_sales DATE NULL,
+  pizza_sales TIME NULL,
+  unit_price FLOAT NULL,
+  total_price FLOAT NULL,
+  pizza_size VARCHAR(45) NULL,
+  pizza_sales VARCHAR(45) NULL,
+  pizza_ingredients VARCHAR(250) NULL,
+  pizza_name VARCHAR(100) NULL,
+  PRIMARY KEY (pizza_id));
+```
+
 ### Import Data
 
-Use the Table Data Import Wizard on the created sales database. 
+To see the blank table:
+```sql
+SELECT * FROM sales.pizza_sales;
+```
+On the result grid, I use the 'import data from an external file'  to upload the CSV file 
 
 ### Verify Imported data
 
