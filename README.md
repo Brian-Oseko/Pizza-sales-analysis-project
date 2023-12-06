@@ -1,4 +1,4 @@
-# Pizza-sales-analysis-project
+# Pizza Sales Analysis
 
 ##Project Overview 
 
