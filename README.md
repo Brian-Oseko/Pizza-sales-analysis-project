@@ -1,6 +1,6 @@
 # Pizza Sales Analysis
 
-##Project Overview 
+## Project Overview 
 
 In this SQL portfolio project, I explore pizza sales from January to December 2015. The project will offer insights into pizza sales performance as well as make data-driven recommendations.
 
