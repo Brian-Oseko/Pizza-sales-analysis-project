@@ -1,4 +1,4 @@
-# Pizza Sales Analysis
+# Pizza Sales Analysis 
 
 ## Project Overview 
 
@@ -40,19 +40,20 @@ CREATE DATABASE sales;
 ### Create Table
 ```sql
 CREATE TABLE sales.pizza_sales (
-  pizza_id INT NOT NULL,
-  pizza_sales INT NULL,
-  pizza_sales VARCHAR(45) NULL,
-  quantity INT NULL,
-  pizza_sales DATE NULL,
-  pizza_sales TIME NULL,
-  unit_price FLOAT NULL,
-  total_price FLOAT NULL,
-  pizza_size VARCHAR(45) NULL,
-  pizza_sales VARCHAR(45) NULL,
-  pizza_ingredients VARCHAR(250) NULL,
-  pizza_name VARCHAR(100) NULL,
-  PRIMARY KEY (pizza_id));
+    pizza_id INT NOT NULL,
+    Order_id INT NULL,
+    pizza_name_id VARCHAR(50),
+    quantity INT NULL,
+    order_date DATE NULL,
+    order_time TIME NULL,
+    unit_price FLOAT NULL,
+    total_price FLOAT NULL,
+    pizza_size VARCHAR(30) NULL,
+    pizza_category VARCHAR(50) NULL,
+    pizza_ingredients VARCHAR(250) NULL,
+    pizza_name VARCHAR(100) NULL,
+    PRIMARY KEY (pizza_id)
+);
 ```
 
 ### Import Data
