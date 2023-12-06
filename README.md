@@ -200,7 +200,7 @@ Limit 5;
 3. July had the highest number of pizza orders
 4. Classic Pizza had the highest sales compared to Veggie, Supreme, and chicken
 5. 45% of all pizza sales were of the large size, followed by medium at 30%
-6. The Seller, The Thai Chicken Pizza, made the highest sales in 2015, while Brie Carre Pizza made the lowest sales
+6. The Thai Chicken Pizza had the highest sales in 2015, while Brie Carre Pizza had the lowest sales
 
 ### Recommendations 
 Based on the analysis, we recommend the company to:
