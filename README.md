@@ -5,7 +5,7 @@
 In this SQL portfolio project, I explore pizza sales from January to December 2015. The project will offer insights into pizza sales performance as well as make data-driven recommendations.
 
 ## Data Sources
-The dataset used for this analysis is the 'pizza_sales.csv' file. It consists of pizza sales information by size, category, order date, seller name, price, order time and more. It is included in my repositiory.
+The dataset used for this analysis is the 'pizza_sales.csv' file. It consists of pizza sales information by size, category, order date, seller name, price, order time and more. It is included in my repository.
 
 ## Tools
 - Excel
