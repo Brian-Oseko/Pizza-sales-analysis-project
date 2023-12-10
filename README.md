@@ -39,7 +39,7 @@ My analysis included:
 ```sql
 CREATE DATABASE sales;
 ```
-### Create Table
+### Creating a Table
 ```sql
 CREATE TABLE sales.pizza_sales (
     pizza_id INT NOT NULL,
@@ -198,7 +198,7 @@ Limit 5;
 ```
 ## Results 
 1. An average of two pizzas are sold for every order placed
-2. Most Pizzas are sold on Friday and saturday and are ordered at 12:00 a.m.
+2. Most Pizzas are sold on Friday and Saturday and are ordered at 12:00 a.m.
 3. July had the highest number of pizza orders
 4. Classic Pizza had the highest sales compared to Veggie, Supreme, and chicken
 5. 45% of all pizza sales were of the large size, followed by medium at 30%
